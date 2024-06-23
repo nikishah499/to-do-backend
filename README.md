@@ -1,4 +1,4 @@
-This is To-do app nackend.
+This is To-do app backend.
 
 ## Getting Started
 
